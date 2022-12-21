@@ -1,0 +1,4 @@
+{
+  "fee_version": "ics29-1",
+  "app_version": "{\"version\":\"ics27-1\",\"controller_connection_id\":\"connection-0\",\"host_connection_id\":\"connection-0\",\"address\":\"chora10h9stc5v6ntgeygf5xf945njqq5h32r5nskjnp\",\"encoding\":\"proto3\",\"tx_type\":\"sdk_multi_msg\"}"
+}

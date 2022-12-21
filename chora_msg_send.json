@@ -1,0 +1,11 @@
+{
+  "@type":"/cosmos.bank.v1beta1.MsgSend",
+  "from_address": "<INSERT_ICA_ADDRESS>",
+  "to_address": "chora10h9stc5v6ntgeygf5xf945njqq5h32r5nskjnp",
+  "amount": [
+    {
+      "denom": "uchora",
+      "amount": "250000"
+    }
+  ]
+}

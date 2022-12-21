@@ -1,0 +1,9 @@
+{
+  "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+  "delegator_address": "<INSERT_ICA_ADDRESS>",
+  "validator_address": "choravaloper18hl5c9xn5dze2g50uaw0l2mr02ew57zkrye4d9",
+  "amount": {
+    "denom": "uchora",
+    "amount": "250000"
+  }
+}
