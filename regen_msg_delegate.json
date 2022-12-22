@@ -1,7 +1,7 @@
 {
   "@type": "/cosmos.staking.v1beta1.MsgDelegate",
   "delegator_address": "<INSERT_ICA_ADDRESS>",
-  "validator_address": "regenvaloper1qnk2n4nlkpw9xfqntladh74w6ujtulwnah3mns",
+  "validator_address": "<INSERT_REGEN_VALIDATOR_ADDRESS>",
   "amount": {
     "denom": "uregen",
     "amount": "250000"

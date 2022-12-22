@@ -1,7 +1,7 @@
 {
   "@type": "/cosmos.bank.v1beta1.MsgSend",
   "from_address": "<INSERT_ICA_ADDRESS>",
-  "to_address": "regen1d84j42rnfgq60sjxpzj4pgfu35mew34d7r65en",
+  "to_address": "<INSERT_REGEN_ADDRESS>>",
   "amount": [
     {
       "denom": "uregen",
