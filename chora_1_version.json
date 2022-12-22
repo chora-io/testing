@@ -2,7 +2,7 @@
   "version": "ics27-1",
   "controller_connection_id": "connection-0",
   "host_connection_id": "connection-0",
-  "address": "chora1m9l358xunhhwds0568za49mzhvuxx9uxp4z9rz",
+  "address": "<INSERT_CHORA_ADDRESS>",
   "encoding": "proto3",
   "tx_type":"sdk_multi_msg"
 }

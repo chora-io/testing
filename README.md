@@ -1,4 +1,4 @@
-# Testing
+# testing
 
 testing scripts for chora blockchain
 

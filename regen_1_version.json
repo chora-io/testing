@@ -2,7 +2,7 @@
   "version": "ics27-1",
   "controller_connection_id": "connection-0",
   "host_connection_id": "connection-0",
-  "address": "regen14zs2x38lmkw4eqvl3lpml5l8crzaxn6mpvh79z",
+  "address": "<INSERT_REGEN_ADDRESS>",
   "encoding": "proto3",
   "tx_type":"sdk_multi_msg"
 }
